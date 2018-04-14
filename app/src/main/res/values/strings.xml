@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyAlticeapp</string>
+    <string name="Cname">Christian Samuel Veras</string>
+    <string name="institucion">Instituto Tecnologio de las Americas</string>
+    <string name="frase">"si todo te da mal, esta haciendo mal las cuentas"</string>
+    <string name="autor">Albert Einstein </string>
+</resources>
